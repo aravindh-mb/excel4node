@@ -1,0 +1,17 @@
+{
+  "name": "xl",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "excel4node": "^1.8.2",
+    "express": "^4.21.0",
+    "node-excel": "^0.5.0"
+  }
+}
